@@ -7,8 +7,26 @@
 
 ## Preview
 
+* Main Menu
+  
 ![Main Menu](/github/MainMenu.png)
+
+* Loadin Screen
+
 ![Labyrinth](/github/Labyrinth.png)
+
+* In Game
+  
 ![In Game](/github/InGame.png)
+
+* Monster
+
 ![Monster](/github/Monster.png)
+
+* Finish
+  
 ![Finish](/github/Finish.png)
+
+## How to play
+
+To get started, simply download the game files from this repository and run the executable.
